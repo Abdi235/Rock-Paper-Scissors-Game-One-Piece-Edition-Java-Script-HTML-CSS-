@@ -1,0 +1,14 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 20px;
+  margin: 0px 0px 0px 20px;
+  font-size: 14px;
+  background-color: #94cff3;
+  background-image: url("images/deck.jpg");
+}
+
+.music {
+  visibility: hidden;
+}
+
+/* Add the rest of your styles here */
